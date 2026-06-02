@@ -1,0 +1,101 @@
+<!-- Waves -->
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path 
+      fill="#500000" fill-opacity="1" d="M0,96L9.2,122.7C18.5,149,37,203,
+      55,202.7C73.8,203,92,149,111,128C129.2,107,148,117,166,112C184.6,107,
+      203,85,222,85.3C240,85,258,107,277,138.7C295.4,171,314,213,332,240C350.8,
+      267,369,277,388,245.3C406.2,213,425,139,443,133.3C461.5,128,480,192,498,229.3C516.9,
+      267,535,277,554,250.7C572.3,224,591,160,609,154.7C627.7,149,646,203,665,234.7C683.1,
+      267,702,277,720,240C738.5,203,757,117,775,90.7C793.8,64,812,96,831,112C849.2,128,868,128,886,133.3C904.6,
+      139,923,149,942,138.7C960,128,978,96,997,101.3C1015.4,107,1034,149,1052,160C1070.8,171,1089,149,1108,149.3C1126.2,
+      149,1145,171,1163,186.7C1181.5,203,1200,213,1218,208C1236.9,203,1255,181,1274,149.3C1292.3,117,1311,75,1329,
+      96C1347.7,117,1366,203,1385,213.3C1403.1,224,1422,160,1431,128L1440,96L1440,0L1430.8,0C1421.5,0,1403,0,1385,0C1366.2,
+      0,1348,0,1329,0C1310.8,0,1292,0,1274,0C1255.4,0,1237,0,1218,0C1200,0,1182,0,1163,0C1144.6,0,1126,0,1108,0C1089.2,0,1071,0,1052,
+      0C1033.8,0,1015,0,997,0C978.5,0,960,0,942,0C923.1,0,905,0,886,0C867.7,0,849,0,831,0C812.3,0,794,0,775,0C756.9,0,738,0,
+      720,0C701.5,0,683,0,665,0C646.2,0,628,0,609,0C590.8,0,572,0,554,0C535.4,0,517,0,498,0C480,0,462,0,443,0C424.6,
+      0,406,0,388,0C369.2,0,351,0,332,0C313.8,0,295,0,277,0C258.5,0,240,0,222,0C203.1,0,185,0,166,0C147.7,0,129,0,111,0C92.3,
+      0,74,0,55,0C36.9,0,18,0,9,0L0,0Z"></path></svg>
+<!-- Waves -->
+
+<!-- Waves -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#500000" 
+    fill-opacity="1" d="M0,96L48,106.7C96,117,192,139,288,138.7C384,139,480,117,576,
+    133.3C672,149,768,203,864,218.7C960,235,1056,213,1152,192C1248,171,1344,149,
+    1392,138.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,
+    320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,
+    320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+<!-- Waves -->
+
+Hai, Nama saya <span>Diky Prayoga</span>, saya mempunyai ketertarikan pada bidang Pengembangan Web dan Desain. Kecintaan saya pada teknologi dan desain dimulai sejak saya menemukan betapa menyenangkannya mengubah ide menjadi
+                tampilan visual yang bisa digunakan dan dinikmati orang banyak. Selama beberapa tahun terakhir, saya telah mengerjakan berbagai proyek, saya percaya bahwa kombinasi antara kode yang bersih dan estetika desain yang matang
+                mampu memberikan pengalaman terbaik bagi pengguna.
+
+<div class="tools-box">
+                <img src="./assets/images/tools/tailwind.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>TailwindCSS</h3>
+                  <p>CSS Framework</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/reactjs.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>React JS</h3>
+                  <p>Framework Javascript</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/nodejs.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Node JS</h3>
+                  <p>Runtime Build</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/nextjs.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Next JS</h3>
+                  <p>Framework Javascript</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/js.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Javascript</h3>
+                  <p>Language</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/github.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Github</h3>
+                  <p>Repository</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/figma.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Figma</h3>
+                  <p>Design App</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/canva.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Canva</h3>
+                  <p>Design App</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/ai.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Adobe Illustrator</h3>
+                  <p>Design App</p>
+                </div>
+              </div>
+              <div class="tools-box">
+                <img src="./assets/images/tools/bootstrap.png" alt="Tools Image" />
+                <div class="tools-desc">
+                  <h3>Bootstrap</h3>
+                  <p>CSS Framework</p>
+                </div>
+              </div>
